@@ -473,5 +473,3 @@ LandRegistry DApp demonstrates:
 
 ---
 
-
-Just tell me which one.
